@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**gionn/gionn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Giovanni Toraldo** and I was born in [Lucca][lucca] (Italy). 🇮🇹
 
-Here are some ideas to get you started:
+I am an [Open Source enthusiast 🐧][1] with [SuperCow Powers 🐮][2], a
+Java/Ruby/whatever developer 🧑🏻‍💻, writer of the [OpenNebula 3 Cloud Computing][3]
+[book ☁️][4].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I currently work as Solution Developer at [Engineering D.HUB][5],
+developing the [ClouDesire][6] platform I co-founded in 2016.
+
+During the weekends I shoot with a [medieval crossbow 🎯][7] for a reenactment association.
+
+My resume (CV) is [here](https://gionn.net/files/giovanni-toraldo-cv.pdf).
+
+[lucca]: https://goo.gl/maps/ULH2ab9wLrNGa3M86
+[1]: https://github.com/gionn
+[2]: https://serverfault.com/users/72778/giovanni-toraldo
+[3]: https://www.packtpub.com/virtualization-and-cloud/opennebula-3-cloud-computing
+[4]: https://www.amazon.com/OpenNebula-Cloud-Computing-Giovanni-Toraldo/dp/1849517460
+[5]: https://eng.it/dhub
+[6]: https://www.cloudesire.com
+[7]: https://consanpaolino.org/gallery
