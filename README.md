@@ -3,7 +3,7 @@
 My name is **Giovanni Toraldo** and I was born in [Lucca][lucca] (Italy). 🇮🇹
 
 I am an Open Source enthusiast 🐧 with [SuperCow Powers 🐮][2], a
-Java/Ruby/whatever developer 🧑🏻‍💻, writer of the [OpenNebula 3 Cloud Computing][3]
+Java/Ruby/Python developer 🧑🏻‍💻, writer of the [OpenNebula 3 Cloud Computing][3]
 [book ☁️][4].
 
 I currently work as DevOps Engineer at [Hyland][5].
