@@ -1,4 +1,4 @@
-### Hi there 👋
+# Ciao 👋 [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
 My name is **Giovanni Toraldo** and I was born in [Lucca][lucca] (Italy). 🇮🇹
 
