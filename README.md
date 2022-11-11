@@ -14,6 +14,8 @@ During the weekends I shoot with a [medieval crossbow 🎯][7] for a reenactment
 
 My resume (CV) is [here](https://gionn.net/files/giovanni-toraldo-cv.pdf).
 
+You can drop me a message on the public discussions [here](https://github.com/gionn/gionn/discussions).
+
 [lucca]: https://goo.gl/maps/ULH2ab9wLrNGa3M86
 [2]: https://serverfault.com/users/72778/giovanni-toraldo
 [3]: https://www.packtpub.com/virtualization-and-cloud/opennebula-3-cloud-computing
