@@ -6,15 +6,16 @@ I am an Open Source enthusiast 🐧 with [SuperCow Powers 🐮][2], a
 Java/Ruby/Python developer 🧑🏻‍💻, writer of the [OpenNebula 3 Cloud Computing][3]
 [book ☁️][4].
 
-I currently work as DevOps Engineer at [Hyland][5].
+I currently work as DevOps Engineer at [Hyland][5], maintaining the [Alfresco][10]
+[Ansible playbook][8] and [Helm Charts][9].
 
 Previously, I was developing the [Cloudesire][6] platform I co-founded in 2016.
 
-During the weekends I shoot with a [medieval crossbow 🎯][7] for a reenactment association.
+During the weekends I shoot with a [medieval crossbow 🎯][7] in a medieval reenactment association.
 
-My resume (CV) is [here](https://gionn.net/files/giovanni-toraldo-cv.pdf).
+My resume (CV) is [here](https://gionn.net/files/giovanni-toraldo-cv.pdf) or on my [LinkedIn][11].
 
-You can drop me a message on the public discussions [here](https://github.com/gionn/gionn/discussions).
+You can drop me a quick message here on GitHub on the public discussions [section](https://github.com/gionn/gionn/discussions).
 
 [lucca]: https://goo.gl/maps/ULH2ab9wLrNGa3M86
 [2]: https://serverfault.com/users/72778/giovanni-toraldo
@@ -23,6 +24,10 @@ You can drop me a message on the public discussions [here](https://github.com/gi
 [5]: https://www.hyland.com
 [6]: https://cloudesire.com
 [7]: https://consanpaolino.org/gallery
+[8]: https://github.com/Alfresco/alfresco-ansible-deployment
+[9]: https://github.com/Alfresco/acs-deployment
+[10]: https://www.alfresco.com
+[11]: https://www.linkedin.com/in/giovannitoraldo/
 
 ## Stats
 
