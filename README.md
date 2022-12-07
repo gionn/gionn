@@ -7,7 +7,7 @@ Java/Ruby/Python developer 🧑🏻‍💻, writer of the [OpenNebula 3 Cloud Co
 [book ☁️][4].
 
 I currently work as DevOps Engineer at [Hyland][5], maintaining the [Alfresco][10]
-[Ansible playbook][8] and [Helm Charts][9].
+[Ansible playbook][8] and [Helm Charts][9], troubleshooting Kubernetes clusters and GitHub Actions workflows.
 
 Previously, I was developing the [Cloudesire][6] platform I co-founded in 2016.
 
