@@ -23,7 +23,7 @@ You can drop me a quick message here on GitHub on the public discussions [sectio
 [4]: https://www.amazon.com/OpenNebula-Cloud-Computing-Giovanni-Toraldo/dp/1849517460
 [5]: https://www.hyland.com
 [6]: https://cloudesire.com
-[7]: https://consanpaolino.org/gallery
+[7]: https://www.instagram.com/consanpaolino/
 [8]: https://github.com/Alfresco/alfresco-ansible-deployment
 [9]: https://github.com/Alfresco/acs-deployment
 [10]: https://www.alfresco.com
