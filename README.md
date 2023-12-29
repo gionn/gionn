@@ -33,7 +33,7 @@ You can drop me a quick message here on GitHub on the public discussions [sectio
 
 ![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gionn&theme=vue)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gionn&show_icons=true&theme=vue&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gionn&show_icons=true&theme=vue&count_private=true&show=reviews,prs_merged,prs_merged_percentage)
 
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gionn&theme=vue&hide=html&langs_count=4)
 
