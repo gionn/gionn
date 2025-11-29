@@ -11,8 +11,6 @@ I currently work as DevOps Engineer at [Hyland][5], maintaining the [Alfresco][1
 
 Previously, I was developing the [Cloudesire][6] platform I co-founded in 2016.
 
-During the weekends I shoot with a [medieval crossbow 🎯][7] in a medieval reenactment association.
-
 My resume (CV) is [here](https://gionn.net/files/giovanni-toraldo-cv.pdf) or on my [LinkedIn][11].
 
 You can drop me a quick message here on GitHub on the public discussions [section](https://github.com/gionn/gionn/discussions).
@@ -23,7 +21,6 @@ You can drop me a quick message here on GitHub on the public discussions [sectio
 [4]: https://www.amazon.com/OpenNebula-Cloud-Computing-Giovanni-Toraldo/dp/1849517460
 [5]: https://www.hyland.com
 [6]: https://cloudesire.com
-[7]: https://www.instagram.com/consanpaolino/
 [8]: https://github.com/Alfresco/alfresco-ansible-deployment
 [9]: https://github.com/Alfresco/acs-deployment
 [10]: https://www.alfresco.com
